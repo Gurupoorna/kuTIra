@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "en-IN",
     baseUrl: "gurupoorna.github.io/kutiir",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

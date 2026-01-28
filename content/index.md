@@ -1,7 +1,5 @@
 ---
 title: Welcome to my कुटीर
-tags:
-  - home
 ---
 > It was easier to know it than to explain why I know it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. 
 > 	<div align="right">  — Sherlock Holmes, A Study in Scarlet.</div>
