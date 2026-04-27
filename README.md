@@ -1,4 +1,4 @@
-# kutiir
+# kuTIr
 
 Repository for my personal website.
 
